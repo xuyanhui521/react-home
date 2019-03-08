@@ -1,0 +1,37 @@
+.login-container{
+  position: fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  overflow:hidden;
+  background-color:pink;
+}
+.login-container .login-logo{
+  background-color:pink;
+  text-align: center;
+  height:240px;
+  line-height:240px;
+  color:#fff;
+}
+.login-container .login-logo i.icons i.icon{
+  color:#fff !important
+}
+.login-container .login-form{
+   padding:15px;
+   
+}
+
+.login-third{
+  text-align: center
+}
+.login-container .login-third i.qq{
+  color:grey !important
+}
+.login-container .divider{
+  color:grey !important;
+}
+.login-container .login-third i.rocketchat{
+  color:grey !important;
+  margin:15px
+}
